@@ -10,8 +10,8 @@ Does this thing sync to the real github directiory?
 
 - Edit Relit
 - Edit slackEdit
-- 
-dsfafa
+- Edit Git
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjYzMDY3NDA2LC0zNDc2MDE4MDUsLTQ3OD
 A5NDA2MSwtMjExODAxODYzOV19
