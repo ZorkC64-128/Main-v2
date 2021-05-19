@@ -2,9 +2,11 @@
 
 Does this thing sync to the real github directiory?
 
-*Does this go italics*`enter code here`
+*Does this go italics*
 
-<b>crap</b>
+`esdfe`
+
+**Crap**
 
 
 <!--stackedit_data:

@@ -1,0 +1,23 @@
+{
+  "name": "Main-v2",
+  "version": "1.0.0",
+  "description": "Does this thing sync to the real github directiory?",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZorkC64-128/Main-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZorkC64-128/Main-v2/issues"
+  },
+  "homepage": "https://github.com/ZorkC64-128/Main-v2#readme",
+  "dependencies": {
+    "screeps-webpack-plugin": "^1.3.0"
+  }
+}
