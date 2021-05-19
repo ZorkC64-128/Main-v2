@@ -110,3 +110,4 @@ Game.spawns['Hub'].spawnCreep([WORK,WORK,CARRY,CARRY,CARRY,MOVE,MOVE], H1,
     {memory: {role: 'harvester'}});
 */
 //Relit edit
+//git edit
