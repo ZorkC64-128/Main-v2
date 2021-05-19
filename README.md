@@ -9,7 +9,10 @@ Does this thing sync to the real github directiory?
 **Crap**
 
 - Edit Relit
+- Edit slackEdit
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODA5NDA2MSwtMjExODAxODYzOV19
+eyJoaXN0b3J5IjpbLTM0NzYwMTgwNSwtNDc4MDk0MDYxLC0yMT
+E4MDE4NjM5XX0=
 -->
