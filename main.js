@@ -109,4 +109,4 @@ These are quick templates.
 Game.spawns['Hub'].spawnCreep([WORK,WORK,CARRY,CARRY,CARRY,MOVE,MOVE], H1,
     {memory: {role: 'harvester'}});
 */
-//asdf
+//Relit edit
